@@ -1,4 +1,4 @@
-# Ejercicios de Python – Funciones y Diccionarios
+# 📌 Ejercicios de Python – funcionalidades de PANDAS
 Este repositorio recopila una serie de ejercicios desarrollados en Python como parte del proceso de aprendizaje de programación y tratamiento básico de datos. IT ACADEMY, SPRINT 10, BARCELONA ACTIVA.
 
 ## Objetivos
