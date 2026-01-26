@@ -3,9 +3,9 @@ Este repositorio recopila una serie de ejercicios desarrollados en Python como p
 
 ## Objetivos
 
-» Crear e importar DataFrames.
-» Modificar, transformar y ordenar DataFrames.
-» Realizar analíticas específicas utilizando Pandas.
+» Crear e importar DataFrames.  
+» Modificar, transformar y ordenar DataFrames.  
+» Realizar analíticas específicas utilizando Pandas.  
 
 ## Contenido del repositorio
 
